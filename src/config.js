@@ -2,7 +2,7 @@
 export const site = {
   name: "Travis Lightbourne",
   email: "travis.lightbourne@gmail.com",
-  phone: "", // e.g. "(408) 555-0123". Leave empty to hide.
+  phone: "(408) 799-6762", // e.g. "(408) 555-0123". Leave empty to hide.
 
   cities: ["Santa Clara", "San José", "Sunnyvale"],
 
