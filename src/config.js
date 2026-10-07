@@ -7,7 +7,7 @@ export const site = {
   cities: ["Santa Clara", "San José", "Sunnyvale"],
 
   // Flip to true only once each is actually in place.
-  insured: false,
+  insured: true,
   offerComputerHelp: false,
 
   // Add once you have a Google Business Profile. Leave empty to hide.
@@ -79,6 +79,6 @@ export const faqs = [
   },
   {
     q: "How do I pay?",
-    a: "You pay after the work is done and you've checked it.",
+    a: "You pay after the work is done and you've checked it. I accept cash, check, Zelle, Venmo, ACH bank transfer, and credit or debit cards, including tap-to-pay.",
   },
 ];
